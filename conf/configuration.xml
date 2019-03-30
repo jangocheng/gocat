@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+
+    <webapps>/webapps</webapps>
+    <!--项目所在目录-->
+
+    <port>8080</port>
+    <!--端口-->
+
+
+</Configuration>
